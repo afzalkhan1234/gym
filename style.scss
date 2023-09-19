@@ -150,7 +150,7 @@ body {
   }
 }
 .blog-bg{
-  background-image: url("../gym/image/bg-page2.png") !important;
+  background-image: url("../../image/bg-page2.png") !important;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -167,7 +167,7 @@ body {
 }
 }
 .hero-bg {
-  background-image: url("/image/hero-bg.png");
+  background-image: url("../../image/hero-bg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -321,7 +321,7 @@ body {
   position: absolute;
   top: 40%;
   left: 14%;
-  background-image: url("/image/5.png");
+  background-image: url("../../image/5.png");
   background-repeat: no-repeat;
   height: 124px;
   width: 32px;
@@ -331,7 +331,7 @@ body {
   position: absolute;
   bottom: 10%;
   right: 8%;
-  background-image: url("/image/5.png");
+  background-image: url("../../image/5.png");
   background-repeat: no-repeat;
   height: 124px;
   width: 32px;
@@ -412,7 +412,7 @@ body {
 
  .featured-section{
   & .featured-bg {
-    background-image: url("/image/hero-bg.png");
+    background-image: url("../../image/hero-bg.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
