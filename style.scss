@@ -431,7 +431,7 @@ body {
     &::before{
     content: "";
     position: absolute;
-    background-image: url('/image/discount-abstract.png');
+    background-image: url('../../image/discount-abstract.png');
     background-repeat: no-repeat;
     bottom: 0px;
     width: 100%;
@@ -561,7 +561,7 @@ body {
 
 .workout-section{
   & .workout-bg{
-    background-image: url('/image/workout.bg2.png');
+    background-image: url('../../image/workout.bg2.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -578,7 +578,7 @@ body {
       opacity: 0.95;
      }
     & .column-left{
-      background-image: url('/image/workout.bg1.png');
+      background-image: url('../../image/workout.bg1.png');
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
@@ -741,7 +741,7 @@ body {
         position: absolute;
         bottom: 5%;
         right: 25px;
-        background-image: url('/image/5.png');
+        background-image: url('../../image/5.png');
         height: 124px;
         width: 32px;
       }
@@ -789,7 +789,7 @@ body {
     top: 3rem;
   }
   & .BMI-right{
-    background-image: url('/image/BMI.png');
+    background-image: url('../../image/BMI.png');
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -821,7 +821,7 @@ body {
             color: #898989 !important;
           }
           &.form-select{
-            background-image: url('/image/down-arrow\ 1.svg');
+            background-image: url('../../image/down-arrow\ 1.svg');
             background-size: inherit;
             cursor: pointer;
           }
@@ -1144,7 +1144,7 @@ body {
 }
 
 .footer-section{
-  background-image: url('/image/footer-bg.png');
+  background-image: url('../../image/footer-bg.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1747,7 +1747,7 @@ body {
           position: absolute;
           bottom: 5%;
           right: 25px;
-          background-image: url('/image/5.png');
+          background-image: url('../../image/5.png');
           height: 124px;
           width: 32px;
         }
@@ -1793,7 +1793,7 @@ body {
       display: none;
     }
     & .BMI-right{
-      background-image: url('/image/BMI.png');
+      background-image: url('../../image/BMI.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -1825,7 +1825,7 @@ body {
               color: #898989 !important;
             }
             &.form-select{
-              background-image: url('/image/down-arrow\ 1.svg');
+              background-image: url('../../image/down-arrow\ 1.svg');
               background-size: inherit;
               cursor: pointer;
             }
@@ -2038,7 +2038,7 @@ body {
       display: none;
     }
     & .BMI-right{
-      background-image: url('/image/BMI.png');
+      background-image: url('../../image/BMI.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
